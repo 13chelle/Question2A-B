@@ -1,0 +1,39 @@
+
+body {
+	background-color: white;
+	font-family: sans-serif;
+	
+}
+
+h1 {
+	color: red;
+}
+
+Main {
+	border-style: dotted;
+	border-color: black;
+	padding-bottom: 25px;
+	padding-left:20px;
+	padding-right:5px;
+	padding-top:20px;
+}
+
+column {
+	float: left;
+	width: 25%;
+}
+
+a:hover{
+	border:2px solid green;
+}
+
+div{
+	padding-top: 5px;
+	padding-bottom: 15px;
+	padding-left:60px;
+	padding-right:5px;
+}
+
+h2 {
+	padding-left: 180px;
+}
